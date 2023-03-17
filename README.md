@@ -1,3 +1,3 @@
 # calender
 
-## try for Using css and javascript design
+## Try for Using css and javascript design
